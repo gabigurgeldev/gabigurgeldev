@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de GABRIEL MORAIS GURGEL, Rank: C+</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  : 222, Total de PRs: 102, Total de Issues: 0, Contribuiu para (ano passado): 5</desc>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  : 222, Total de PRs: 103, Total de Issues: 0, Contribuiu para (ano passado): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 195.89577324695247;
+        stroke-dashoffset: 195.6854306112341;
       }
     }
   
@@ -188,7 +188,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >102</text>
+      >103</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
